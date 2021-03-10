@@ -8,7 +8,8 @@ namespace DataStructure
         public static void Main(string[] args)
         {
             //Array.Do();
-            SingleLinkedList.Do();
+            //SingleLinkedList.Do();
+            DoubleLinkedList.Do();
         }
         
     }
