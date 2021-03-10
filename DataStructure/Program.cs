@@ -1,12 +1,15 @@
-﻿using System;
+﻿using DataStructure.LinkedList;
+using System;
 
 namespace DataStructure
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            Array.Do();
+            //Array.Do();
+            SingleLinkedList.Do();
         }
+        
     }
 }
