@@ -1,4 +1,5 @@
 ﻿using DataStructure.LinkedList;
+using DataStructure.queue;
 using DataStructure.Stack;
 using System;
 
@@ -11,7 +12,8 @@ namespace DataStructure
             //Array.Do();
             //SingleLinkedList.Do();
             //DoubleLinkedList.Do();
-            StackProgram.Do();
+            //StackProgram.Do();
+            QueueProgram.Do();
         }
         
     }
