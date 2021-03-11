@@ -8,7 +8,8 @@ namespace Algorithms
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            LinearSearch.Do();
+            //LinearSearch.Do();
+            BinarySearch.Do();
         }
     }
 }
