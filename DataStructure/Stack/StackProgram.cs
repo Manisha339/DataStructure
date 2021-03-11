@@ -96,10 +96,11 @@ namespace DataStructure.Stack
             Current = Root;
             while(Current != null)
             {
-                result = Current.Data;
+                result += Current.Data+" ";
                 Current = Current.Next;
-                Console.WriteLine(result);
+                
             }
+            Console.WriteLine(result);
             Current = Root;
             return result;
 
