@@ -1,4 +1,5 @@
 ﻿using Algorithms.Searching;
+using Algorithms.Sorting;
 using System;
 
 namespace Algorithms
@@ -9,7 +10,8 @@ namespace Algorithms
         {
             Console.WriteLine("Hello World!");
             //LinearSearch.Do();
-            BinarySearch.Do();
+            //BinarySearch.Do();
+            BubbleSort.Do();
         }
     }
 }
