@@ -16,7 +16,8 @@ namespace Algorithms
             //InsertionSort.Do();
             //QuickSort.Do();
             //recursion.Do();
-            shellSort.Do();
+            //shellSort.Do();
+            MergeSort.Do();
         }
     }
 }
