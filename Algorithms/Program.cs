@@ -14,7 +14,8 @@ namespace Algorithms
             //BubbleSort.Do();
             //SelectionSort.Do();
             //InsertionSort.Do();
-            QuickSort.Do();
+            //QuickSort.Do();
+            recursion.Do();
         }
     }
 }
